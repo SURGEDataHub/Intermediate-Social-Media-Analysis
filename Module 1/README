@@ -1,1 +1,7 @@
-description of module 1
+# Module 1
+
+In this exercise code you can refresh some basic python functions, such as: 
+
+- opening a csv dataset
+- querying a dataset to extract subsets of data
+- visualize some basic summary statistics
