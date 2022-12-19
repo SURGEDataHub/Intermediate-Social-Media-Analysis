@@ -4,5 +4,5 @@ This repository contains materials from the Intermediate training on Social Medi
 
 ## Organizers
 
-This training is organized by [UNDP SURGE Data Hub](link). [UNDP Crisis Risk and Early Warning](link), and [QCRI](link) 
+This training is organized by [UNDP SURGE Data Hub](https://data.undp.org/content/surge-data-hub/). [UNDP Crisis Risk and Early Warning](link), and [QCRI](https://crisiscomputing.qcri.org/) 
 
