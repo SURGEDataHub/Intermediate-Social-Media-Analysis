@@ -1,6 +1,6 @@
 # Intermediate Social Media Analysis
 
-This repository contains materials from the Intermediate training on Social Media Analytics in Crisis Contexts run from November 21st through December 16th.  
+This repository contains materials from the Intermediate training on Social Media Analytics in Crisis Contexts run from November 21st through December 21st.  
 
 ## Organizers
 
