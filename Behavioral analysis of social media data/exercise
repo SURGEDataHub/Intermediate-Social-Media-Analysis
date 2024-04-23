@@ -1,0 +1,11 @@
+# Module 5: Sentiment Analysis Hands on Tutorial
+
+Social media data is vast and complex. Understanding how to sift through it to uncover useful content is therefore crucial. Mis- and disinformation, and harmful narratives more broadly, are especially challenging to uncover given their many nuances.
+
+Assessing behavioural patterns of online actors can help uncover patterns of inauthenic behavioral which can serve as a signature of those spreading harmful content. There are many ways to analyse behavioural patterns, of which we will focus here on assessing coordinated behaviour - i.e. account and actors that might be working together to spread harmful narratives. Specifically we will look at:
+
+Uncovering bot-like behaviour - i.e. the rapid sharing of the same content
+The sharing of copy/pasta - i.e. the sharing of similar content
+
+Use the following link to access the exercise in Colab: 
+https://colab.research.google.com/drive/1vt2W38smDD4KnpL5r-Vc3OGlD6CIvfnm?usp=sharing
